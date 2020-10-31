@@ -1,28 +1,32 @@
-Topic: Identifying the best influencer for your brand
+# Topic: Global Sugar Intake 
 
 Members: Cecilia Leung, Amaris Hassan, Kapil Pundhir, Caitlan Beachey, Hillary Mandich
 
 Roles
 Pulling data - Amaris Hassan
-Cleaning/transforming - Kapil Pundhir
+Cleaning/transforming - Kapil Pundhir, Caitlan Beachey
 Analysis - Cecilia Leung
 Visualization - Hillary Mandich
-Presentation  - Caitlan Beachey
+Presentation  - All
  
 Kind of data
-Instagram
-Social Media
+CSV, API
  
 Sources
-Instagram API
-Kaggle
-data.world
+
+CSV's/Excel:
+Sugar intake/day global[]
+The Global Dietary Database 
+
+API's:
+FatSecret Platform API
+CDC - Nutrition and Obesity API
  
 Questions
 
-1.  What are the number of users of Instagram globally?
-2.  What demographics use Instagram the most?
-3.  What influencers have the most number of follower?
-4.  What is the level of engagement of each influencer?
-5.  What are the top Interest Type of the most popular influencers?
-6.  What are the costs associated with each post?
+1. What is the average daily intake of processed sugar globally?
+2. How has the average sugar intake changed over time?
+3. What is the correlation between income and sugar intake?
+4. Is there a correlation between processed sugar and long term diseases? 
+5. Is there a correlation between processed sugar and obesity? 
+6. Is there a correlation between processed sugar and dental health? 
