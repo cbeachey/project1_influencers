@@ -1,4 +1,4 @@
-Age,Gender,Genetic,Lifestyle,Eduration,Area,BMI,Stress,Diabetic,FBS,PPBS
+Age,Gender,Genetic,Lifestyle,Eduration,Area,Body Mass Index (BMI),Stress,Diabetic,Fasting Blood Sugar (FBS),Post Pranidial Blood Sugar (PPBS)
 37,M,No,Sedentary,37,Urban,22,Normal,No,116,203
 26,F,Yes,Normal,25,Metro,26,High,No,97,169
 52,M,Yes,Normal,50,Urban,24,High,Yes,151,264
