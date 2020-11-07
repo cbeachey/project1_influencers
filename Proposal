@@ -15,18 +15,17 @@ CSV, API
 Sources
 
 CSV's/Excel:
-Sugar intake/day global[]
-The Global Dietary Database 
+Sugar intake/day global
 
 API's:
 FatSecret Platform API
-CDC - Nutrition and Obesity API
  
 Questions
 
-1. What is the average daily intake of processed sugar globally?
+1. What is the average daily intake of processed sugar globally? Which countries consume the most on average?
 2. How has the average sugar intake changed over time?
 3. What is the correlation between income and sugar intake?
 4. Is there a correlation between processed sugar and long term diseases? 
 5. Is there a correlation between processed sugar and obesity? 
 6. Is there a correlation between processed sugar and dental health? 
+7. What are the top 5 purchased grocery items in the country with the highest sugar intake? For these 5 top items, what is their sugar content?
