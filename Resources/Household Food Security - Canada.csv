@@ -1,0 +1,37 @@
+﻿Household food security by living arrangement 1 2 3 4 5
+"Occasional"
+"Table: 13-10-0385-01"
+"Geography: Canada, Province or territory"
+
+"","Canada",,,
+"","Food secure 7 8","Food insecure, marginal 7 8","Food insecure, moderate 7 8","Food insecure, severe 7 8"
+"","Percentage of households","Percentage of households","Percentage of households","Percentage of households"
+"Living arrangement 9 10","2017 / 2018","2017 / 2018","2017 / 2018","2017 / 2018"
+"","Percent",,,
+"Total, all living arrangements","87.3","4.0","5.7","3.0"
+"Female living alone","83.8","4.1","7.4","4.7"
+"Male living alone","83.3","4.7","6.3","5.7"
+"Couple no children","94.3","2.3","2.3","1.1"
+"Couple with child(ren) less than 18 years old","88.2","4.4","5.9","1.4"
+"Female lone parent with child(ren) less than 18 years old","66.9","8.0","16.3","8.8"
+"Male lone parent with child(ren) less than 18 years old","78.4","5.3E","9.6E","6.7E"
+"Other living arrangements","86.2","4.5","6.5","2.8"
+
+Symbol legend:
+E,use with caution,
+
+Footnotes:
+1,"Source: Statistics Canada, Canadian Community Health Survey (CCHS)"
+2,"As a result of the 2015 redesign, CCHS has a new collection strategy, a new sample design, and has undergone major content revisions. With all these factors taken together, caution should be taken when comparing data from previous cycles to data released for the 2015 cycle onwards."
+3,"For this data table, household weights were used."
+4,"All estimates in this table are calculated excluding non-response categories (""refusal"", ""don't know"", and ""not stated"") in the denominator."
+5,"Data for the Canadian Community Health Survey (CCHS) are collected yearly from a sample of approximately 65,000 respondents. This table presents estimates from two-year combined data. These estimates are less current than annual estimates, but have higher precision given the larger sample (less variability)."
+6,"Food security data for 2015/2016 was not collected in Newfoundland and Labrador, Ontario and Yukon, therefore no estimates exist for these geographies or at the Canada level."
+7,This variable is based on a set of 18 questions and indicates whether households both with and without children were able to afford the food they needed in the previous 12 months. The levels of food security are defined as: 1- Food secure: No indication of difficulty with income-related food access; 2- Marginally food insecure: Exactly one indication of difficulty with income-related food access; 3- Moderately food insecure: Indication of compromise in quality and/or quantity of food consumed; 4- Severely food insecure: Indication of reduced food intake and disrupted eating patterns.
+8,"In 2020, Health Canada updated it's recommended derivation of food insecurity measures to include the level 'marginal food insecurity'. Historically, this category was considered part of the population defined as 'food secure'. Users wishing to compare estimates from this table to earlier cycles of CCHS that do not include 'marginal food insecurity' should add the totals of the categories 'marginally insecure' and 'food secure' from this table to compare to the 'food secure' category of the earlier table. For international comparability, food insecurity is typically considered to be the combination of 'moderate' and 'severe' insecurity."
+9,"This variable is derived from the household roster dataset, along with variables indicating children less than 18 years old."
+10,Cases where the living arrangement could not be determined were excluded from this table.
+
+"How to cite: Statistics Canada. Table 13-10-0385-01 Household food security by living arrangement"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310038501
+DOI: https://doi.org/10.25318/1310038501-eng
